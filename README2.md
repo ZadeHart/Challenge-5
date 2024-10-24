@@ -1,17 +1,17 @@
-# Pumpkin
+# README DYNAMO
 ![GitHub License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 # <Your-Project-Title>
 
 ## Questions
 
-ZadeHart
+https://github.com/ZadeHart
 
-zadehartpro@gmail.com
+Please contact me at zadehartpro@gmail.com with any further questions.
 
 ## Description
 
-It's about pumpkins.
+It is to generate a README file.
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
@@ -24,9 +24,13 @@ Provide a short description explaining the what, why, and how of your project. U
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
+- [Questions](#questions)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Features](#features)
+- [Tests](#test)
 - [License](#license)
 
 ## Installation
@@ -37,7 +41,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-It's about pumpkins.
+This is for a README generator.
 
 ## Credits
 
@@ -74,8 +78,4 @@ Go the extra mile and write tests for your application. Then provide examples on
 MIT
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
