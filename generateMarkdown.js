@@ -41,7 +41,7 @@ ${renderLicenseBadge(data.license)}
 
 ${data.github}
 
-${data.email}
+Please contact me at ${data.email} with any further questions.
 
 ## Description
 
@@ -58,9 +58,13 @@ Provide a short description explaining the what, why, and how of your project. U
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
+- [Questions](#questions)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Features](#features)
+- [Tests](#test)
 - [License](#license)
 
 ## Installation
@@ -108,10 +112,6 @@ Go the extra mile and write tests for your application. Then provide examples on
 ${data.license}
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 `;
 }
